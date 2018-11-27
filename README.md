@@ -1,8 +1,11 @@
 ### Note: Moving to a new repository: [`learning-roadmaps`](https://github.com/RoryDuncan/learning-roadmaps)
 
 http://www.learnpython.org/
+
 https://exercism.io/my/tracks/python
+
 https://www.datacamp.com/search?q=python
+
 https://www.sololearn.com/Play/Python
 
 

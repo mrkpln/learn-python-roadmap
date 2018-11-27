@@ -8,7 +8,7 @@ A roadmap for learning the python language, eventually focusing on Data Science.
 
 **Estimating an initial 10 hours of study per week.**
 
-### Week 0
+### Week 0 26 Kasım - 2 Aralık
 
 If you know programming already, **skip week 0**.
 
